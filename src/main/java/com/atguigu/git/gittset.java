@@ -6,5 +6,6 @@ public class gittset {
         System.out.println("hahah1");
         System.out.println("这里hot-fix被修改了哦");
         System.out.println("master冲突测试");
+        System.out.println("hot-fix冲突测试");
     }
 }
